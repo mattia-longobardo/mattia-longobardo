@@ -1,16 +1,106 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**mattia-longobardo/mattia-longobardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Animated typing header -->
+<a href="https://longobardo.me">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Mattia+Longobardo+%F0%9F%91%8B;Software+Engineer+%C2%B7+AI+%26+EPM+Consultant;TypeScript+%C2%B7+React+%C2%B7+Next.js+%C2%B7+Python;Building+AI-powered+enterprise+software" alt="Typing SVG" />
+</a>
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Website](https://img.shields.io/badge/longobardo.me-2F80ED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://longobardo.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mattia-longobardo/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Mattia.longobardo@outlook.com)
+[![X](https://img.shields.io/badge/@MattiaLongo21-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/MattiaLongo21)
+
+<img src="https://komarev.com/ghpvc/?username=mattia-longobardo&style=flat-square&color=2F80ED" alt="Profile views" />
+
+</div>
+
+---
+
+## 🚀 About Me
+
+I build **reliable web applications, automation services, and AI-enabled workflows** for enterprise environments. My work combines TypeScript, React, Next.js, and Python with a systems mindset shaped by engineering and operations. I care about clarity, traceability, and turning complex business needs into practical software.
+
+- 💼 **Software Engineer & Consultant** @ **Reply Business EPM** (Milan, Italy) — embedding AI & LLMs into Enterprise Performance Management: sales estimation & forecasting, automated document reading & analysis, what-if scenario generation, and custom AI-based enterprise applications
+- 🤖 Company **AI point of reference** — I design AI productivity systems and deliver **AI/LLM training** to colleagues
+- 🎓 **MSc in Management Engineering** @ Politecnico di Milano · BSc in Mechanical Engineering
+- 🏠 Homelab enthusiast — self-hosting with **Proxmox, Docker & Ubuntu**
+- 🖨️ Into **3D printing**, lean operations, and digital transformation
+- 🌍 Italian (native) · English (C1)
+
+## 🛠️ Tech Stack
+
+**Languages & Frameworks**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-e86e05?style=flat-square)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
+
+**Cloud & Platforms**
+
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Oracle Fusion](https://img.shields.io/badge/Oracle%20Fusion-F80000?style=flat-square&logo=oracle&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+
+**Infrastructure & Tools**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
+
+## 📜 Certifications
+
+| Certification | Issuer | Year |
+|---|---|---|
+| 🏅 Oracle Cloud Applications EPM Process Essentials — Rel 1 | Oracle | 2026 |
+| 🏅 Oracle Fusion AI Agent Studio — Certified Foundations Associate | Oracle | 2026 |
+| 🏅 Google AI Professional Certificate | Google Career Certificates | 2026 |
+| 🏅 Google Project Management Certificate | Google Career Certificates | 2026 |
+
+## 📂 Featured Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| [🏠 Homelab](https://github.com/mattia-longobardo/Homelab) | Self-hosted infrastructure — services, automation and configs for my home server | Proxmox · Docker |
+| [📈 Trading-Algorithm](https://github.com/mattia-longobardo/Trading-Algorithm) | Algorithmic trading experiments | Python |
+| [✈️ Travel-Agent](https://github.com/mattia-longobardo/Travel-Agent) | AI-powered travel planning agent | Python |
+| [🎨 Quoteready-studio](https://github.com/mattia-longobardo/Quoteready-studio) | Quote generation studio | TypeScript |
+| [🎛️ Knobby](https://github.com/mattia-longobardo/Knobby) | Hardware control interface project | — |
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=mattia-longobardo&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattia-longobardo&layout=compact&theme=default&hide_border=true&langs_count=8" alt="Top languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=mattia-longobardo&theme=default&hide_border=true" alt="GitHub streak" />
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=mattia-longobardo&theme=flat&no-frame=true&row=1&column=6&margin-w=8" alt="GitHub trophies" />
+
+</div>
+
+---
+
+<div align="center">
+
+💬 *Let's talk about AI in the enterprise, web engineering, or homelabs* → [**longobardo.me**](https://longobardo.me)
+
+</div>
