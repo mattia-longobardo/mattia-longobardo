@@ -88,8 +88,6 @@ I build **reliable web applications, automation services, and AI-enabled workflo
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=mattia-longobardo&theme=flat&no-frame=true&row=1&column=6&margin-w=8" alt="GitHub trophies" />
-
 </div>
 
 ---
