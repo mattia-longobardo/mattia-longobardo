@@ -12,8 +12,6 @@
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Mattia.longobardo@outlook.com)
 [![X](https://img.shields.io/badge/@MattiaLongo21-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/MattiaLongo21)
 
-<img src="https://komarev.com/ghpvc/?username=mattia-longobardo&style=flat-square&color=2F80ED" alt="Profile views" />
-
 </div>
 
 ---
@@ -83,9 +81,6 @@ I build **reliable web applications, automation services, and AI-enabled workflo
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=mattia-longobardo&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattia-longobardo&layout=compact&theme=default&hide_border=true&langs_count=8" alt="Top languages" />
 
 <br/>
 
