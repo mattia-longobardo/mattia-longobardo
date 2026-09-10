@@ -1,11 +1,7 @@
 # Save this file as .github/workflows/metrics.yml in the mattia-longobardo/mattia-longobardo repo.
 #
 # Setup (one time):
-# 1. Create a Personal Access Token (classic) at https://github.com/settings/tokens
-#    → no scopes needed for public repos (add `repo` only if you want private repo data).
-# 2. In the repo: Settings → Secrets and variables → Actions → New repository secret
-#    → Name: METRICS_TOKEN, Value: the token.
-# 3. Commit this workflow, then run it manually once from the Actions tab.
+# 1. Commit this workflow, then run it manually once from the Actions tab.
 #    It will commit metrics.plugin.languages.svg to the repo,
 #    which the README already references.
 
@@ -28,7 +24,8 @@ jobs:
       # 🈷️ Languages activity
       - uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          # Use the built-in GitHub token to avoid external PAT secret drift/expiry.
+          token: ${{ github.token }}
           user: mattia-longobardo
           filename: metrics.plugin.languages.svg
           base: ""
