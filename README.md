@@ -1,97 +1,84 @@
 <div align="center">
 
-<!-- Animated typing header -->
-<a href="https://longobardo.me">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Mattia+Longobardo+%F0%9F%91%8B;Software+Engineer+%C2%B7+AI+%26+EPM+Consultant;TypeScript+%C2%B7+React+%C2%B7+Next.js+%C2%B7+Python;Building+AI-powered+enterprise+software" alt="Typing SVG" />
-</a>
+# Mattia Longobardo
 
-<br/>
+**Applied AI Engineer: AI agents, LLM applications, enterprise integrations**
+
+Milan, Italy · Open to relocation / remote
 
 [![Website](https://img.shields.io/badge/longobardo.me-2F80ED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://longobardo.me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mattia-longobardo/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Mattia.longobardo@outlook.com)
-
-<img src="https://komarev.com/ghpvc/?username=mattia-longobardo&style=flat-square&color=2F80ED" alt="Profile views" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mattia-longobardo)
 
 </div>
 
----
+## About
 
-## 🚀 About Me
+I build AI agents and LLM applications that plug into real enterprise systems, and I take them from a customer's problem to a working release: scoping with business stakeholders, designing and building the system in Python and TypeScript, and training the people who will use it.
 
-I build **reliable web applications, automation services, and AI-enabled workflows** for enterprise environments. My work combines TypeScript, React, Next.js, and Python with a systems mindset shaped by engineering and operations. I care about clarity, traceability, and turning complex business needs into practical software.
+Engineering background (Politecnico di Milano), currently a consultant on enterprise planning platforms at Reply (Business EPM). Outside work, I build and self-host my own tools on a homelab.
 
-- 💼 **Software Engineer & Consultant** @ **Reply Business EPM** (Milan, Italy) — embedding AI & LLMs into Enterprise Performance Management: sales estimation & forecasting, automated document reading & analysis, what-if scenario generation, and custom AI-based enterprise applications
-- 🤖 Company **AI point of reference** — I design AI productivity systems and deliver **AI/LLM training** to colleagues
-- 🎓 **MSc in Management Engineering** @ Politecnico di Milano · BSc in Mechanical Engineering
-- 🏠 Homelab enthusiast — self-hosting with **Proxmox, Docker & Ubuntu**
-- 🖨️ Into **3D printing**, lean operations, and digital transformation
-- 🌍 Italian (native) · English (C1)
+## What I work on
 
-## 🛠️ Tech Stack
+- **Agentic systems:** LangGraph agents, MCP servers, human-in-the-loop approval for write operations, audit trails and LLM tracing
+- **LLM applications:** document and report analysis, web-grounded research agents, forecasting pipelines combining LLMs with classical ML
+- **Enterprise integrations:** Oracle EPM Cloud, Microsoft Fabric, Power Platform / Dataverse, migration of legacy planning workflows
+- **Full-stack delivery:** FastAPI backends and Next.js frontends, from prototype to production
+- **Enablement:** AI/LLM training and vendor-platform vs. custom-build evaluation
 
-**Languages & Frameworks**
+## Tech stack
+
+**Languages & frameworks**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-e86e05?style=flat-square)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-**Cloud & Platforms**
+**AI & agents**
+
+LangGraph · Model Context Protocol (MCP) · OpenAI API & Agents SDK · Azure OpenAI · RAG · LLM tracing · Copilot Studio
+
+**Cloud & platforms**
 
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Oracle Fusion](https://img.shields.io/badge/Oracle%20Fusion-F80000?style=flat-square&logo=oracle&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=flat-square&logo=microsoft&logoColor=white)
-
-**Infrastructure & Tools**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 
-## 📜 Certifications
+**Enterprise systems**
 
-| Certification | Issuer | Year |
+Oracle EPM Cloud · Power Platform / Dataverse
+
+## Featured projects
+
+| Project | What it is | Stack |
 |---|---|---|
-| 🏅 Oracle Cloud Applications EPM Process Essentials — Rel 1 | Oracle | 2026 |
-| 🏅 Oracle Fusion AI Agent Studio — Certified Foundations Associate | Oracle | 2026 |
-| 🏅 Google AI Professional Certificate | Google Career Certificates | 2026 |
-| 🏅 Google Project Management Certificate | Google Career Certificates | 2026 |
+| [**Travel-Agent**](https://github.com/mattia-longobardo/Travel-Agent) | Multi-agent AI travel planner: seven specialised LangGraph agents search, compare and rank flight + hotel packages, streamed live to the UI | LangGraph · FastAPI · Next.js · PostgreSQL |
+| [**Trading-Algorithm**](https://github.com/mattia-longobardo/Trading-Algorithm) | Trading bot built as an evolutionary arena of rival LLM agents, with hard survival brakes and a dashboard | Python · FastAPI · Next.js · eToro API · OpenAI |
+| [**Ledgerly**](https://github.com/mattia-longobardo/Ledgerly) | Self-hosted personal finance and household-admin dashboard, multi-user with row-level security and E2E tests | Next.js · Hono · PostgreSQL · Playwright |
+| [**Janus**](https://github.com/mattia-longobardo/Janus) | Self-hosted LAN control plane: device discovery, static IPs, new-device quarantine and approval, alerts | FastAPI · Next.js · PostgreSQL |
+| [**Quoteready-studio**](https://github.com/mattia-longobardo/Quoteready-studio) | Turns a CAD file into a quote-ready manufacturing dossier: measurements, process routes, price ranges and an ISO technical drawing. Built for the Zoo API Makeathon 2026 | Next.js · TypeScript · Zoo API |
+| [**Knobby**](https://github.com/mattia-longobardo/Knobby) | Battery-powered smart knob for Home Assistant: round touchscreen, rotary control, weeks of standby, 3D-printed case | ESP32-S3 · ESPHome · LVGL |
 
-## 📂 Featured Projects
+I also keep a fork of [paperless-ngx](https://github.com/mattia-longobardo/paperless-ngx), the document management system I use on my homelab.
 
-| Project | Description | Tech |
-|---|---|---|
-| [🏠 Homelab](https://github.com/mattia-longobardo/Homelab) | Self-hosted infrastructure — services, automation and configs for my home server | Proxmox · Docker |
-| [📈 Trading-Algorithm](https://github.com/mattia-longobardo/Trading-Algorithm) | Algorithmic trading experiments | Python |
-| [✈️ Travel-Agent](https://github.com/mattia-longobardo/Travel-Agent) | AI-powered travel planning agent | Python |
-| [🎨 Quoteready-studio](https://github.com/mattia-longobardo/Quoteready-studio) | Quote generation studio | TypeScript |
-| [🎛️ Knobby](https://github.com/mattia-longobardo/Knobby) | Hardware control interface project | — |
+## Certifications
 
-## 🈷️ Languages Activity
+- Oracle Fusion AI Agent Studio: Certified Foundations Associate (2026)
+- Oracle Cloud Applications EPM Process Essentials, Rel 1 (2026)
+- Google AI Professional Certificate (2026)
+- AWS Certified AI Practitioner (2026)
+
+## Education
+
+MSc Management Engineering and BSc Mechanical Engineering, Politecnico di Milano
 
 <div align="center">
 
-<!-- Generated by lowlighter/metrics (see .github/workflows/metrics.yml) -->
-<img src="metrics.plugin.languages.svg" alt="Languages activity" />
-
-</div>
-
----
-
-<div align="center">
-
-💬 *Let's talk about AI in the enterprise, web engineering, or homelabs* → [**longobardo.me**](https://longobardo.me)
+Let's talk about AI agents, enterprise integrations or self-hosting: [**longobardo.me**](https://longobardo.me) · [**LinkedIn**](https://www.linkedin.com/in/mattia-longobardo)
 
 </div>
