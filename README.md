@@ -61,7 +61,7 @@ Oracle EPM Cloud · Power Platform / Dataverse
 | [**Trading-Algorithm**](https://github.com/mattia-longobardo/Trading-Algorithm) | Trading bot built as an evolutionary arena of rival LLM agents, with hard survival brakes and a dashboard | Python · FastAPI · Next.js · eToro API · OpenAI |
 | [**Ledgerly**](https://github.com/mattia-longobardo/Ledgerly) | Self-hosted personal finance and household-admin dashboard: net worth over time, manual and synced accounts, multi-user, REST API and OAuth-protected MCP server | Next.js · Hono · PostgreSQL · Playwright |
 | [**Janus**](https://github.com/mattia-longobardo/Janus) | Self-hosted LAN control plane: device discovery, static IPs, new-device quarantine and approval, alerts | FastAPI · Next.js · PostgreSQL |
-| [**Quoteready-studio**](https://github.com/mattia-longobardo/Quoteready-studio) | Turns a CAD file into a quote-ready manufacturing dossier: measurements, process routes, price ranges and an ISO technical drawing. Built for the Zoo API Makeathon 2026 | Next.js · TypeScript · Zoo API |
+| [**Quoteready-Studio**](https://github.com/mattia-longobardo/Quoteready-Studio) | Turns a CAD file into a quote-ready manufacturing dossier: measurements, process routes, price ranges and an ISO technical drawing. Built for the Zoo API Makeathon 2026 | Next.js · TypeScript · Zoo API |
 | [**Knobby**](https://github.com/mattia-longobardo/Knobby) | Battery-powered smart knob for Home Assistant: round touchscreen, rotary control, weeks of standby, 3D-printed case | ESP32-S3 · ESPHome · LVGL |
 
 I also keep a fork of [paperless-ngx](https://github.com/mattia-longobardo/paperless-ngx), the document management system I use on my homelab.
